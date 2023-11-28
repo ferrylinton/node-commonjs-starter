@@ -1,2 +1,3 @@
 # node-commonjs-starter
-Node with CommonJS boilerplate project 
+
+Node with CommonJS boilerplate project
